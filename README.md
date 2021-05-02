@@ -1,5 +1,6 @@
 # simple-colors
-A simple node.js colors library.
+A simple node.js colors library.\
+npm package soon
 
 ## How to use:
 ```
