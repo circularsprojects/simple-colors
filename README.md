@@ -1,10 +1,12 @@
 # simple-colors
 A simple node.js colors library.
 
-## How to use:
+## Installation:
 Install with npm:\
 `npm install node-simple-colors`\
 Or use colors.js from the repository
+
+## Example:
 ```
 const colors = require("node-simple-colors")
 
